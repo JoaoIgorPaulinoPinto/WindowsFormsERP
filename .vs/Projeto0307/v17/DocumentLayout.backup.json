@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|c:\\users\\joao\\source\\repos\\projeto0307\\view\\cadendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:view\\cadendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\controls\\clienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:controls\\clienteapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\view\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:view\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|c:\\users\\joao\\source\\repos\\projeto0307\\view\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:view\\cadproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\view\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:view\\cadcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|C:\\Users\\Joao\\source\\repos\\Projeto0307\\view\\cadendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{661A8375-57C5-4E53-8B94-E85A30121FE0}|Projeto0307.csproj|solutionrelative:view\\cadendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 248,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadProduto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadProduto.cs",
+              "RelativeDocumentMoniker": "View\\CadProduto.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadProduto.cs [Design]",
+              "RelativeToolTip": "View\\CadProduto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T01:40:28.485Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Models\\Endereco.cs",
+              "RelativeToolTip": "Models\\Endereco.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:11:37.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:09:39.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteAPI.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Controls\\ClienteAPI.cs",
+              "RelativeDocumentMoniker": "Controls\\ClienteAPI.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\Controls\\ClienteAPI.cs",
+              "RelativeToolTip": "Controls\\ClienteAPI.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAhwJoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T21:07:49.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadEndereco.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadEndereco.cs",
+              "RelativeDocumentMoniker": "View\\CadEndereco.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadEndereco.cs",
+              "RelativeToolTip": "View\\CadEndereco.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAqwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:48:29.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CadCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadCliente.cs",
+              "RelativeDocumentMoniker": "View\\CadCliente.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadCliente.cs",
+              "RelativeToolTip": "View\\CadCliente.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAAANAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:56:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadEndereco.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadEndereco.cs",
+              "RelativeDocumentMoniker": "View\\CadEndereco.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadEndereco.cs [Design]",
+              "RelativeToolTip": "View\\CadEndereco.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:54:16.144Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CadCliente.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadCliente.cs",
+              "RelativeDocumentMoniker": "View\\CadCliente.cs",
+              "ToolTip": "C:\\Users\\Joao\\source\\repos\\Projeto0307\\View\\CadCliente.cs [Design]",
+              "RelativeToolTip": "View\\CadCliente.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T22:52:07.513Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

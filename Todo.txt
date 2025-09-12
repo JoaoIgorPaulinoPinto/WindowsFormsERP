@@ -1,0 +1,19 @@
+--------- Cadastro de cliente ----------
+Separa API Cliente e API Endereço
+Finalizar a edição e exclusão de registro por tela separada
+Concertar DataGridView que não aparece nada escrito 
+
+
+
+--------- Cadastro de Usuário ----------
+Adicionar o sistema de gerenciamento de permissão, usando um singleton 
+Adicionar Dropdown com os usuarios cadastrados ao enves de escrever o email
+
+
+-------- Cadastro de produto ----------
+
+Cadastrar materias primas e sua medidaa
+Preço 
+Nome 
+
+----------------- Venda -----------------
