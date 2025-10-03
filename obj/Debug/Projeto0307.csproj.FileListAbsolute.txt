@@ -45,3 +45,4 @@ C:\Users\Joao\source\repos\Projeto0307\bin\Debug\System.Runtime.CompilerServices
 C:\Users\Joao\source\repos\Projeto0307\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Joao\source\repos\Projeto0307\obj\Debug\Projeto0.31CD3902.Up2Date
 C:\Users\Joao\source\repos\Projeto0307\obj\Debug\Projeto0307.View.CadEndereco.resources
+C:\Users\Joao\source\repos\Projeto0307\obj\Debug\Projeto0307.exe.config
